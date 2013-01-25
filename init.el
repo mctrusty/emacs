@@ -1,6 +1,6 @@
 (setq default-directory "C:/Users/mjcox/")
 
-(load "C:\\Users\\mjcox\\Documents\\nxhtml-2.08-100425\\nxhtml\\autostart.el")
+;(load "C:\\Users\\mjcox\\Documents\\nxhtml-2.08-100425\\nxhtml\\autostart.el")
 
 (add-to-list 'load-path "~/.emacs.d")
 (progn (cd "~/.emacs.d")
