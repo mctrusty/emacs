@@ -98,7 +98,7 @@
 
 ;;; Published variables and functions.
 
-(defvar pymacs-python-command "/cygdrive/c/Python27/python.exe"
+(defvar pymacs-python-command "python"
   "Shell command used to start Python interpreter.")
 
 (defvar pymacs-load-path nil
